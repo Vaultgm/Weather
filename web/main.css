@@ -16,6 +16,7 @@ body {
     background: linear-gradient(to right, #D6F3F1, #16BFFD);
     color: #8698D1;
 
+
 }
 
 #location {
@@ -33,7 +34,7 @@ body {
 }
 
 #location::placeholder {
-     color:#8AA09;
+     color: #87CEFA;
 
 }
 
@@ -43,12 +44,12 @@ body {
      margin-top: 20px;
 
     background: #79CABD;
-    background: -webkit-linear-gradient(to right, #DBFEEA, #79CABD);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #DBFEEA, #79CABD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: -webkit-linear-gradient(to right, #DBFEEA, #2a7bf5);
+    background: linear-gradient(to right, #DBFEEA, #2a7bf5);
 
      border-radius: 10px;
      padding: 20px;
-     color: #8698D1;
+     color: #5981bd ;
      outline: none;
      width: 100%;
      font-size: 20px;
@@ -60,7 +61,7 @@ body {
 #show:hover {
     opacity: .9;
     cursor: pointer;
-    color: #2C3E82;
+    color: #cedcde;
 }
 
 
